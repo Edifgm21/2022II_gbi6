@@ -1,6 +1,6 @@
 # Tarea de la clase 1
 
-** Edisson Gonzales
+**Edisson Gonzales**
 Se va a hacer una evaluacion de lo aprendido en Unix
 
 **Datos personales**
