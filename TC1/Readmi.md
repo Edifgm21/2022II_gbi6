@@ -4,7 +4,8 @@
 se va a hacer una evaluacion de lo aprendido en Unix
 
 **Datos Personales**
-Nmbre, Edison Gonzales
+
+Nombre, Edison Gonzales
 Ciudad, Ibarra
 Idioma, latino 
 
