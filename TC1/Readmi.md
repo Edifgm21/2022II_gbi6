@@ -7,3 +7,4 @@ se va a hacer una evaluacion de lo aprendido en Unix
 Nmbre, Edison Gonzales
 Ciudad, Ibarra
 Idioma, latino 
+
